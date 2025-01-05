@@ -57,8 +57,12 @@ CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 
 English,#genre#
 CGTN,https://0472.org/hls/cgtn.m3u8
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 
 国际频道,#genre#
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
