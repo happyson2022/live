@@ -51,6 +51,14 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 延边频道,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
+Radio,#genre#
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+
+English,#genre#
+CGTN,https://0472.org/hls/cgtn.m3u8
+NBC2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
+
 国际频道,#genre#
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
