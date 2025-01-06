@@ -46,25 +46,16 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 
-English,#genre#
+外语频道,#genre#
 CGTN,https://0472.org/hls/cgtn.m3u8
-BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 RTNews,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-上海外语,https://migu.freetv.top/migu/618954688.m3u8?migutoken=c2721a043164d2ab17a0b8ffa03558bfe992a94b0cfc017495c6d51c75b5f9b767d247f1ca9e766e59599e943e502d2c3b002502f7fd6d6544d50345c1fe00871c0b66eda2dfb8c4ed3514d012id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281#http://tvbox6.icu/tv/migu.php?id=shics
 
-Radio,#genre#
-BBC News,https://utulsa.streamguys1.com/KWGSHD3-MP3
+广播频道,#genre#
 CGTN RADIO,http://sk.cri.cn/am846.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 河南新闻广播,http://stream.hndt.com/live/xinwen/chunklist_w1553160037.m3u8
-中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8#http://117.141.194.182:39581/stream/channelid/2029217412
-经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8#http://117.141.194.182:39581/stream/channelid/1159510464
 
-港台,#genre#
+港台频道,#genre#
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-中视,rtmp://f13h.mine.nu/sat/tv091
-台视,rtmp://f13h.mine.nu/sat/tv071
-东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4#http://211.72.65.236:8540/.m3u8
