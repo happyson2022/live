@@ -51,7 +51,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 RTNews,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
+上海外语,https://migu.freetv.top/migu/618954688.m3u8?migutoken=c2721a043164d2ab17a0b8ffa03558bfe992a94b0cfc017495c6d51c75b5f9b767d247f1ca9e766e59599e943e502d2c3b002502f7fd6d6544d50345c1fe00871c0b66eda2dfb8c4ed3514d012id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281#http://tvbox6.icu/tv/migu.php?id=shics
 
 Radio,#genre#
 BBC News,https://utulsa.streamguys1.com/KWGSHD3-MP3
