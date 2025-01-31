@@ -43,7 +43,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 
 外语频道,#genre#
-CGTN,https://0472.org/hls/cgtn.m3u8#https://live.cgtn.com/1000/prog_index.m3u8#https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
 BBC News,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 广播频道,#genre#
