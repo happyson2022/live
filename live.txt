@@ -16,6 +16,7 @@ CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 中国教育1台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+
 卫视频道,#genre#
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227199/index.m3u8
@@ -32,20 +33,15 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8
 BBC News,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-港澳台,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 广播频道,#genre#
 CGTN RADIO,http://sk.cri.cn/am846.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-河南新闻,https://stream.hndt.com/live/xinwen/playlist.m3u8
-FM90.0 My Radio,https://stream.hndt.com/live/yingshi/playlist.m3u8
 
 春晚频道,#genre#
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
 
