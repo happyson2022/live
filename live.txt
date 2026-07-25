@@ -1,20 +1,24 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-CCTV2,http://[2409:8087:4400:20:1:70f:1011:1b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
+CCTV2,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
+CCTV2,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
 CCTV3,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8
 CCTV4,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8
-CCTV5,http://[2409:8087:4400:20:1:70f:1011:1b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
+CCTV5,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
+CCTV5,http://[2409:8087:4402:20:1:1216:401:2c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 CCTV6,http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
-CCTV7,http://[2409:8087:4400:20:1:70f:1011:1b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8
-CCTV8,http://[2409:8087:4400:20:1:70f:1011:1b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-CCTV9,http://[2409:8087:4400:20:1:70f:1011:a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
+CCTV8,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8
+CCTV9,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
+CCTV9,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 CCTV10,http://[2409:8087:4402:20:1:1216:401:40]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8
 CCTV12,http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226479/index.m3u8
-CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u8
-CCTV14,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8
-CCTV17,http://[2409:8087:4400:20:1:70f:1011:1b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+CCTV13,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
+CCTV13,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
 中国教育1台,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+
+少儿频道,#genre#
+CCTV14,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8
+金鹰卡通,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 
 卫视频道,#genre#
 河南卫视,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
@@ -23,9 +27,11 @@ CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec973
 北京卫视,http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8
 东方卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 江苏卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-浙江卫视,http://[2409:8087:4400:20:1:a0f:12:e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
+浙江卫视,http://[2409:8087:4402:20:1:1216:401:3f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8
+浙江卫视,http://[2409:8087:4402:20:1:1216:401:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 深圳卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
-湖南卫视,http://[2409:8087:4400:20:1:70f:1011:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
+湖南卫视,http://[2409:8087:4400:20:1:a0f:12:23]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8
+湖南卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
 辽宁卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
 
 外语频道,#genre#
@@ -37,6 +43,3 @@ CGTN RADIO,http://sk.cri.cn/am846.m3u8
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 
-少儿频道,#genre#
-金鹰卡通,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
-卡酷少儿,http://[2409:8087:4402:20:1:1216:401:42]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8
