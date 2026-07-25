@@ -30,8 +30,6 @@ CCTV14,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV
 浙江卫视,http://[2409:8087:4402:20:1:1216:401:3f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8
 浙江卫视,http://[2409:8087:4402:20:1:1216:401:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 深圳卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
-湖南卫视,http://[2409:8087:4400:20:1:a0f:12:23]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8
-湖南卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
 辽宁卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
 
 外语频道,#genre#
@@ -42,4 +40,3 @@ CGTN RADIO,http://sk.cri.cn/am846.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-
