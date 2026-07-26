@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://61.161.61.119:9004/hls/1/index.m3u8
+CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 CCTV2,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
@@ -11,19 +12,26 @@ CCTV4,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/
 CCTV3,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 CCTV5,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
 CCTV5,http://[2409:8087:4402:20:1:1216:401:2c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
+CCTV5,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
 CCTV6,http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
 CCTV6,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
 CCTV8,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8
+CCTV8,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
 CCTV9,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
 CCTV9,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
+CCTV9,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-9-MD/G_CCTV-9-MD.m3u8
 CCTV10,http://[2409:8087:4402:20:1:1216:401:40]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8
+CCTV10,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-10-MD/G_CCTV-10-MD.m3u8
 CCTV12,http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226479/index.m3u8
+CCTV12,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-12-MD/G_CCTV-12-MD.m3u8
 CCTV13,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
 CCTV13,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
+CCTV13,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-13/CCTV-13.m3u8
 中国教育1台,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 
 少儿频道,#genre#
 CCTV14,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8
+CCTV14,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 金鹰卡通,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 
 卫视频道,#genre#
