@@ -36,18 +36,28 @@ CCTV14,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-CQ/G_C
 
 卫视频道,#genre#
 河南卫视,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
+河南卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HENAN-MD/G_HENAN-MD.m3u8
+河南卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南戏曲,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
+河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227245/index.m3u8
 北京卫视,http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8
+北京卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
 东方卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+东方卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8
 江苏卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+江苏卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_JIANGSU-MD/G_JIANGSU-MD.m3u8
 浙江卫视,http://[2409:8087:4402:20:1:1216:401:3f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8
 浙江卫视,http://[2409:8087:4402:20:1:1216:401:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
+浙江卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
 深圳卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
+深圳卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SHENZHEN-MD/G_SHENZHEN-MD.m3u8
 辽宁卫视,http://[2409:8087:4402:20:1:1216:401:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
+辽宁卫视,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_LIAONING-MD/G_LIAONING-MD.m3u8
 
 外语频道,#genre#
 CGTN,http://[2409:8087:4402:20:1:1216:401:31]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CGTN,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 
 广播频道,#genre#
 CGTN RADIO,http://sk.cri.cn/am846.m3u8
