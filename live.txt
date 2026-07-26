@@ -3,8 +3,7 @@ CCTV1,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
-CCTV2,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
-CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+CCTV2,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV3,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8
 CCTV3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
 CCTV3,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
@@ -34,8 +33,6 @@ CCTV风云剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500
 CCTV14,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8
 CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8
 CCTV14,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
-金鹰卡通,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
-金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
 
 卫视频道,#genre#
 河南卫视,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
