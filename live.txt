@@ -35,8 +35,13 @@ CCTV13,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV
 CCTV13,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225883/index.m3u8
 CCTV13,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-13/CCTV-13.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
+CCTV风云剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500/index.m3u8
+
 中国教育1台,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 中国教育1台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+中国教育1台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
 
 少儿频道,#genre#
 CCTV14,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8
@@ -75,6 +80,8 @@ CCTV14,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-CQ/G_C
 外语频道,#genre#
 CGTN,http://[2409:8087:4402:20:1:1216:401:31]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8
+CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/index.m3u8
 CGTN,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 
 广播频道,#genre#
