@@ -1,3 +1,5 @@
+epg=https://live.fanmingming.com/e.xml
+logo=https://live.fanmingming.com/tv/{name}.png
 央视频道,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://183.201.112.22/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
